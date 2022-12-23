@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/book-store/static/css/main.491a0579.css",
+    "main.js": "/book-store/static/js/main.a4271eae.js",
+    "static/js/787.7cb2e3e1.chunk.js": "/book-store/static/js/787.7cb2e3e1.chunk.js",
+    "static/media/cover.jpg": "/book-store/static/media/cover.0a0d738b0021a0e8b387.jpg",
+    "static/media/img5.jpg": "/book-store/static/media/img5.6e4cc26c57a33b60fa43.jpg",
+    "static/media/img7.jpg": "/book-store/static/media/img7.7de6ecfe7dc2fb52c791.jpg",
+    "static/media/img2.jpg": "/book-store/static/media/img2.4487489e1c1c8225d372.jpg",
+    "static/media/img11.jpg": "/book-store/static/media/img11.c8f589e939f51952861b.jpg",
+    "static/media/img9.jpg": "/book-store/static/media/img9.dc96bd23019c6adbfcd9.jpg",
+    "static/media/img1.jpg": "/book-store/static/media/img1.6b8b3a7be276cae5e2a7.jpg",
+    "static/media/img12.jpg": "/book-store/static/media/img12.3919650c3ac751fa8ee1.jpg",
+    "static/media/img3.jpg": "/book-store/static/media/img3.ee0b16e5c8e362729649.jpg",
+    "static/media/img8.jpg": "/book-store/static/media/img8.475e7809240f5533a33c.jpg",
+    "static/media/img17.jpg": "/book-store/static/media/img17.3bb7adc74b0b2dcea8d4.jpg",
+    "static/media/img10.jpg": "/book-store/static/media/img10.856e37b64e8f71f297c3.jpg",
+    "static/media/img16.jpg": "/book-store/static/media/img16.4bcfd3b46c8c04ed9509.jpg",
+    "static/media/img6.jpg": "/book-store/static/media/img6.a4e0fe784075b4684ae7.jpg",
+    "static/media/img18.jpg": "/book-store/static/media/img18.a97d05aa562b0ae84df7.jpg",
+    "static/media/img4.jpg": "/book-store/static/media/img4.523cddd6e1100a45fa88.jpg",
+    "static/media/img13.jpg": "/book-store/static/media/img13.c34c5c923b000a56cddf.jpg",
+    "static/media/ukrposhta.png": "/book-store/static/media/ukrposhta.684f94f0c537cde9b497.png",
+    "static/media/img14.jpg": "/book-store/static/media/img14.5e0acbdda434a0c4c668.jpg",
+    "static/media/img15.jpg": "/book-store/static/media/img15.dac5381e59fee73386b8.jpg",
+    "static/media/delivery.png": "/book-store/static/media/delivery.6fae32134141263bfb8c.png",
+    "index.html": "/book-store/index.html",
+    "main.491a0579.css.map": "/book-store/static/css/main.491a0579.css.map",
+    "main.a4271eae.js.map": "/book-store/static/js/main.a4271eae.js.map",
+    "787.7cb2e3e1.chunk.js.map": "/book-store/static/js/787.7cb2e3e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.491a0579.css",
+    "static/js/main.a4271eae.js"
+  ]
+}
