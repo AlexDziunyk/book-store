@@ -1,0 +1,106 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.app_booksBlock {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3em 14em;
+}
+
+.app_titleBooks {
+    text-align: center;
+    padding-top: 0.5em;
+    font-size: 2.5rem;
+    font-weight: 700;
+    
+}
+
+.app_books {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 2em;
+    gap: 2em;
+}
+
+.app_tips {
+    margin-top: 3em;
+}
+
+.app_tipsText {
+    font-size: 2em;
+    font-weight: 700;
+    text-align: center;
+}
+
+.app_tipsItems {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 3em 14em;
+    flex-wrap: wrap;
+    column-gap: 4em;
+    gap: 2em;
+}
+
+.app_search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    gap: 2em;
+}
+
+.app_input {
+    display: block;
+    padding: 12px 20px;
+    width: 50%;
+    box-sizing: border-box;
+    background: #F4F5F7;
+    border: none;
+    font-size: 1rem;
+    transition: 0.2s;
+    margin-top: 1em;
+}
+
+.app_input:focus {
+    outline: none;
+}
+
+.app_button {
+    text-align: center;
+    cursor: pointer;
+    background-color: #E89F71;
+    color: white;
+    padding: 0.8em 3em;
+    border-radius: 15px;
+    margin-top: 1em;
+    transition: 0.2s;
+}
+
+.app_button:hover {
+    box-shadow: -10px 4px 24px rgba(0, 0, 0, 0.1);
+    background-color: rgb(236, 123, 53);
+    color: white;
+}
+
+.app_nothing {
+    text-align: center;
+    font-size: 2em;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
